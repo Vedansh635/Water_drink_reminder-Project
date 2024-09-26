@@ -22,6 +22,4 @@ The script consists of the following components:
 - The script resets the counter to 0 and calls the `timer` function again to start the timer over<br>
 
 # Customization
-You can customize the notification title, message, and icon by modifying the `Notification` object. You can also adjust the timer duration by changing the value of the `sec` variable in the while loop.<br>
-
-I hope this helps! Let me know if you'd like me to elaborate on any part of the code or description.
+You can customize the notification title, message, and icon by modifying the `Notification` object. You can also adjust the timer duration by changing the value of the `sec` variable in the while loop.
