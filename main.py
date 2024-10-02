@@ -42,3 +42,4 @@ def timer():
 
 # Call the timer function to start the program
 timer()
+# NOTE: All code is written by me , except comments .
